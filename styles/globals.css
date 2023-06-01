@@ -1,38 +1,37 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
-    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+  tr:nth-child(even) {
+    @apply bg-gray-100;
+  }
+  
+  /* tbody > tr {
+    @apply border-l-2 border-r-2;    
+  } */
+
+  th:first-child {    
+    @apply rounded-tl-2xl;    
+  }
+  
+  th:last-child {
+    @apply rounded-tr-2xl;   
+  }
+
+  tbody > tr:last-child > td:first-child {    
+    @apply rounded-bl-2xl;    
+  }
+  
+  tbody > tr:last-child > td:last-child {    
+    @apply rounded-br-2xl;    
+  }
+  
+  table {    
+    @apply border-solid border rounded-2xl border-separate border-spacing-0;    
+  }
+ 
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
-}
 
-* {
-  box-sizing: border-box;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-h1,
-h2,
-p,
-ul {
-  margin: 0;
-}
-
-ul {
-  padding: 0;
-  list-style: none;
-}
-
-button {
-  padding: 0.5rem 1rem;
-  font-weight: bold;
-}
