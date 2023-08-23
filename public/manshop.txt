@@ -7,7 +7,7 @@
     "aspectMode": "cover",
     "action": {
       "type": "uri",
-      "uri": "http://linecorp.com/"
+      "uri": "https://www.0800258758.com.tw/"
     },
     "animated": true,
     "aspectRatio": "22:30"
