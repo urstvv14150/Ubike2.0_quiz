@@ -1,0 +1,172 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.ageinmedia.com/assets/images/line-card/jh/animated.png",
+    "size": "full",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "http://linecorp.com/"
+    },
+    "animated": true,
+    "aspectRatio": "22:30"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "md",
+    "contents": [
+      {
+        "type": "text",
+        "text": "📢北台灣最大團體制服📢",
+        "wrap": true,
+        "weight": "bold",
+        "gravity": "center",
+        "size": "xl"
+      },
+      {
+        "type": "text",
+        "wrap": true,
+        "weight": "bold",
+        "gravity": "center",
+        "size": "xl",
+        "text": "🔶晶輝團體制服🔷"
+      },
+      {
+        "type": "text",
+        "text": "https://www.0800258758.com.tw/",
+        "wrap": true,
+        "weight": "bold",
+        "gravity": "center",
+        "size": "sm",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://www.0800258758.com.tw/"
+        },
+        "decoration": "underline",
+        "color": "#0000FF"
+      },
+      {
+        "type": "text",
+        "text": "✅一件就做",
+        "wrap": true,
+        "weight": "bold",
+        "gravity": "center",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": "✅免印刷費",
+        "wrap": true,
+        "weight": "bold",
+        "gravity": "center",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": "✅免費繡花",
+        "wrap": true,
+        "weight": "bold",
+        "gravity": "center",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": "✅免設計費",
+        "wrap": true,
+        "weight": "bold",
+        "gravity": "center",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": "✅三天交貨",
+        "wrap": true,
+        "weight": "bold",
+        "gravity": "center",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": "✨ 多樣優質服飾✨ 多樣印刷與繡花服務",
+        "wrap": true,
+        "weight": "bold",
+        "gravity": "center",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": "⭕校園團服/員工制服/工程背心/路跑服飾/廟會活動服/餐飲服飾",
+        "wrap": true,
+        "weight": "bold",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": "⭕T恤👕⭕POLO🥼⭕外套🧥⭕背心🦺⭕圍裙 ⭕鴨舌帽🧢⭕漁夫帽⭕棒球帽⭕",
+        "size": "md",
+        "weight": "bold",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "成衣代工⭕服飾代印⭕訂製服飾⭕品牌設計⭕圖案設計",
+        "wrap": true,
+        "weight": "bold",
+        "gravity": "center",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": "您心動了嗎❓",
+        "weight": "bold",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": " 馬上訂做尊屬於您的團體服吧📞",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "🔥馬上加入我們的🅛🅘🅝🅔",
+        "wrap": true,
+        "weight": "bold",
+        "gravity": "center",
+        "size": "md",
+        "contents": [
+          {
+            "type": "span",
+            "text": "🔥馬上加入我們的"
+          },
+          {
+            "type": "span",
+            "text": "🅻🅸🅽🅴",
+            "color": "#00DD00",
+            "size": "xl"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "💖即刻為您服務💖",
+        "wrap": true,
+        "weight": "bold",
+        "gravity": "center",
+        "size": "md"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "🔥即刻諮詢訂製🔥",
+          "uri": "https://lihi1.com/9y3xP"
+        },
+        "style": "primary",
+        "color": "#0088FF"
+      }
+    ]
+  }
+}
