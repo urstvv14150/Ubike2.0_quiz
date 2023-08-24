@@ -1,0 +1,456 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "url": "https://www.ageinmedia.com/assets/images/line-card/jh/01.jpg"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "北台灣最大團體制服批發商",
+            "wrap": true,
+            "size": "20px",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "擁有多年團服製作經驗，無論你的需求是什麼，請放心交給晶輝。",
+                "wrap": true,
+                "weight": "regular",
+                "size": "15px",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "　",
+                "size": "md"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "wrap": true,
+                "weight": "regular",
+                "size": "15px",
+                "flex": 0,
+                "text": "晶輝團體制服特色："
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "•　設計到生產一條龍服務",
+                "wrap": true,
+                "weight": "regular",
+                "size": "15px",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "•　免設計費",
+                "wrap": true,
+                "weight": "regular",
+                "size": "15px",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "•　量少也可生產",
+                "wrap": true,
+                "weight": "regular",
+                "size": "15px",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "•　急件３天內交貨",
+                "wrap": true,
+                "weight": "regular",
+                "size": "15px",
+                "flex": 0
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "首頁",
+              "uri": "https://lihi1.com/wxThj"
+            },
+            "style": "secondary",
+            "color": "#FFEBC2"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "立刻聯絡",
+              "uri": "https://lihi1.com/Mh8Zg"
+            },
+            "style": "secondary",
+            "color": "#92D050"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "url": "https://www.ageinmedia.com/assets/images/line-card/jh/08.jpg"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "服務品項多元",
+            "wrap": true,
+            "weight": "bold",
+            "size": "20px"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 0,
+            "contents": [
+              {
+                "type": "text",
+                "text": "滿足各行各業從頭到腳，對於衣著的客製化需求。",
+                "wrap": true,
+                "weight": "regular",
+                "size": "15px",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "　",
+                "size": "md"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 0,
+            "contents": [
+              {
+                "type": "text",
+                "text": "團體客製化：",
+                "wrap": true,
+                "weight": "regular",
+                "size": "15px",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "•　公司制服：餐飲業、工程行...等",
+                "wrap": true,
+                "weight": "regular",
+                "size": "15px",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "•　宮廟 / 廟會繞境",
+                "wrap": true,
+                "weight": "regular",
+                "size": "15px",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "•　高國中小班服系服",
+                "wrap": true,
+                "weight": "regular",
+                "size": "15px",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "其他品項：帽子、手提袋…等",
+                "wrap": true,
+                "weight": "regular",
+                "size": "15px",
+                "flex": 0
+              }
+            ]
+          }      
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "flex": 2,
+            "style": "secondary",
+            "color": "#FFEBC2",
+            "action": {
+              "type": "uri",
+              "label": "商品目錄",
+              "uri": "https://lihi1.com/7X38F"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "立刻聯絡",
+              "uri": "https://lihi1.com/Mh8Zg"
+            },
+            "color": "#92D050",
+            "style": "secondary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "url": "https://www.ageinmedia.com/assets/images/line-card/jh/07.jpg"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "合作客戶",
+            "wrap": true,
+            "weight": "bold",
+            "size": "20px"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 0,
+            "contents": [
+              {
+                "type": "text",
+                "text": "合作客戶種類多元，經驗豐富，深獲業界認可。",
+                "wrap": true,
+                "weight": "regular",
+                "size": "15px",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 0,
+            "contents": [
+              {
+                "type": "text",
+                "text": "　",
+                "wrap": true,
+                "weight": "bold",
+                "size": "md",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "合作客戶：",
+                "wrap": true,
+                "weight": "regular",
+                "size": "15px",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "•　餐飲業：麥當勞、胖老爹...等",
+                "wrap": true,
+                "weight": "regular",
+                "size": "15px",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "•　公司行號：台積電、 BMW...等",
+                "wrap": true,
+                "weight": "regular",
+                "size": "15px",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "•　公家單位：捷運局、經濟部...等",
+                "wrap": true,
+                "weight": "regular",
+                "size": "15px",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "•　宗教類：青山王…等",
+                "wrap": true,
+                "weight": "regular",
+                "size": "15px",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "flex": 2,
+            "style": "secondary",
+            "color": "#FFEBC2",
+            "action": {
+              "type": "uri",
+              "label": "精選作品",
+              "uri": "https://lihi1.com/3w5hO"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "立刻聯絡",
+              "uri": "https://lihi1.com/Mh8Zg"
+            },
+            "style": "secondary",
+            "color": "#92D050"
+          }
+        ]
+      }
+    }
+  ]
+}
